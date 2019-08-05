@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="bno055_ros" type="bno055_ros_node" name="bno055_ros_node" output="screen">
+</node>
+</launch>
