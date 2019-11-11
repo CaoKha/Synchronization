@@ -8,3 +8,6 @@ MPU9255 is a cheap IMU sensor that give non filtered data.
 Camera D435 from Intel Realsense
 ## DXL 430
 Dynamixel motors from ROBOTIS
+## Info about this repo
+This repository is developed using vscode with platformio plugin. 
+This repository is also using ROS Kinetic on Ubuntu 16.04 LTS. All the folders have ros in the file name will require ROS to function.
