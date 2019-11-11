@@ -11,4 +11,4 @@ Dynamixel servo motors from ROBOTIS: http://emanual.robotis.com/docs/en/dxl/x/xl
 The script is to debug the motor of the mobile robot
 ## Info about this repo
 This repository is developed using vscode with platformio plugin. 
-This repository is also using ROS Kinetic on Ubuntu 16.04 LTS. All the folders have ros in the file name will require ROS to function.
+This repository is also using ROS Kinetic on Ubuntu 16.04 LTS. All the folders have "ros" in the file name will require ROS to function.
