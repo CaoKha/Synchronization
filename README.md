@@ -1,5 +1,4 @@
 # Synchronization
-This project was done when I was working in Trimble at Nantes as trainee. My project is to validate the time received data from different sensors on different hardware such as Raspberry Pi, Up board, Udoo x86 which was later used on a mobile robot for navigation. The goal is to synchronize data coming from camera and IMU.
 ## BNO055 
 BNO055 is an already fusion and filtered IMU sensor that has a data rate of 100 Hz: https://cdn-shop.adafruit.com/datasheets/BST_BNO055_DS000_12.pdf
 ## MPU9255
